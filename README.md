@@ -1,6 +1,6 @@
 # r-note
-这是一个新手测试
-**加粗**
+this is a noob test
+**Bold**
 
 ```R
 setwd("D:/tu/")
@@ -8,4 +8,5 @@ library(ggplot2)
 ```
 - 1
 - 2
->引文
+>cite
+>[12]https://login.shinyapps.io/
