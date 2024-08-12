@@ -1,4 +1,4 @@
-@[toc]
+[toc]
 # r-note
 lwl 20240812
 ## this is a noob test
