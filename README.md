@@ -6,7 +6,8 @@ lwl 20240812
 [toc]## this is a noob test
 
 
-**Bold**
+**Bold**  
+
 [toc]
 # ggplot
 ```R
