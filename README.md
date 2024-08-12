@@ -1,14 +1,9 @@
----
-toc:
-  depth_from: 1
-  depth_to: 6
-  ordered: false
----
+[toc]
 # r-note
 lwl 20240812
 
 
-## this is a noob test
+@[toc]## this is a noob test
 
 
 **Bold**
