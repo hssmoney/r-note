@@ -1,4 +1,9 @@
-[toc]
+---
+toc:
+  depth_from: 1
+  depth_to: 6
+  ordered: false
+---
 # r-note
 lwl 20240812
 
