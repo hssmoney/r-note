@@ -2,8 +2,9 @@
 这是一个新手测试
 **加粗**
 
-```R
+```java
 setwd("D:/tu/")
+library(ggplot2)
 ```
 - 1
 - 2
