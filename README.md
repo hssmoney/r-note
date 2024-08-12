@@ -1,7 +1,11 @@
 [toc]
 # r-note
-lwl 20240812
+[toc]lwl 20240812
+
+[toc]
 ## this is a noob test
+
+
 **Bold**
 
 ```R
