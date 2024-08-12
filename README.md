@@ -2,7 +2,7 @@
 这是一个新手测试
 **加粗**
 
-```java
+```R
 setwd("D:/tu/")
 library(ggplot2)
 ```
