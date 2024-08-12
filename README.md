@@ -1,5 +1,7 @@
+@[toc]
 # r-note
-this is a noob test
+lwl 20240812
+## this is a noob test
 **Bold**
 
 ```R
