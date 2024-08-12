@@ -7,6 +7,7 @@ lwl 20240812
 
 
 **Bold**
+[toc]
 # ggplot
 ```R
 setwd("D:/tu/")
